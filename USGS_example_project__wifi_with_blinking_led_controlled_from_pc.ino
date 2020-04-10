@@ -1,8 +1,8 @@
 //WIFI/Blink Code
 #include <WiFi.h>
 
-const char* ssid     = "flukenet";
-const char* password = "!323Fluker323!";
+const char* ssid     = "SSID";
+const char* password = "PASSWORD";
 
 WiFiServer server(80);
 
